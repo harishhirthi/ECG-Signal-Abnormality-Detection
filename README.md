@@ -19,3 +19,7 @@ Kernalised SVM shows the log-loss of 0.3669 on test data.
 # Tools used
 - MATLAB – For Data and Feature Extraction
 - PYTHON – For Training and Testing the ML Algorithm
+
+### Contains two files:
+1) Preprocessing.m - ECG signal preprocessing and feature extraction(MatLAB file).
+2) Abnormal_Detection.ipynb - Machine Learning Modelling.
